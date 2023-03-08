@@ -16,7 +16,7 @@ class MyComponent extends React.Component {
             <>
                 <div className='abc'>
                     <input value={this.state.name} type="text" onChange={(event) => this.handleOnChange(event)} />
-                    <div>quang huy {this.state.name} 1</div>
+                    <div>quang huy jhdjkhaskjhaskjasdkhasdkjhas {this.state.name} 1</div>
                 </div>
                 <div className='abc'>
                     <div>quang huy {name} 2</div>
