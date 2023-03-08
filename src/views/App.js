@@ -11,7 +11,6 @@ function App() {
           jjkhjkads
           kldklasjdkljs
           lkjkdsa
-          001
         </p>
         <a
           className="App-link"
