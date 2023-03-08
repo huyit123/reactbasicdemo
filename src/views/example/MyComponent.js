@@ -16,10 +16,10 @@ class MyComponent extends React.Component {
             <>
                 <div className='abc'>
                     <input value={this.state.name} type="text" onChange={(event) => this.handleOnChange(event)} />
-                    <div>quang huy hgqgwejhghewq jhdjkhaskjhaskjasdkhasdkjhas {this.state.name} 1</div>
+                    <div>quang huy  {this.state.name} 1</div>
                 </div>
                 <div className='abc'>
-                    <div>quang huy jwqhjkhwqkjhwkehkhqwe jkdasjasdklasdjsd {name} 2</div>
+                    <div>quang huy {name} 2</div>
                 </div>
                 <div className='third'>
                     <button onClick={() => this.clickButton()}>Click Me</button>
